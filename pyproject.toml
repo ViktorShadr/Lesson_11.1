@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "lesson11-1"
+version = "0.1.0"
+description = ""
+authors = ["Viktor Shadrin <v.vshadrin@gmail.com>"]
+readme = "README.md"
+packages = [{include = "lesson11"}]
+
+[tool.poetry.dependencies]
+python = "^3.13"
+pytest = "^8.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
