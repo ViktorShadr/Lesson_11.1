@@ -9,6 +9,7 @@ packages = [{include = "lesson11"}]
 [tool.poetry.dependencies]
 python = "^3.13"
 pytest = "^8.4.1"
+windows-curses = "^2.4.1"
 
 
 [build-system]

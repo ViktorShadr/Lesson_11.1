@@ -8,6 +8,6 @@ nan
 -2
 # this is a comment
 -3
-
+-inf
 -4
 inf
