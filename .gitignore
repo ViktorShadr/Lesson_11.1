@@ -1,6 +1,6 @@
 # Poetry
 /.venv/
-/poetry.lock
+#/poetry.lock
 
 # Virtual environment
 /venv/
