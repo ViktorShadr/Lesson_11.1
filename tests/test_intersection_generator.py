@@ -1,6 +1,4 @@
-import pytest
-
-from generators import intersection_generator
+from src.generators import intersection_generator
 
 
 def test_intersection_generator():
