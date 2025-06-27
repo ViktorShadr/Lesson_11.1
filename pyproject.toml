@@ -10,6 +10,10 @@ packages = [{include = "lesson11"}]
 python = "^3.13"
 pytest = "^8.4.1"
 windows-curses = "^2.4.1"
+flake8 = "^7.3.0"
+black = "^25.1.0"
+mypy = "^1.16.1"
+isort = "^6.0.1"
 
 
 [build-system]
